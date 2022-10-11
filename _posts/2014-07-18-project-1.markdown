@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 32 Degrees
+subtitle: E-Commerce
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2019-04-18
+img: 32-degrees.png
+thumbnail: 32-degrees-thumbnail.jpg
+alt: 32 Degrees
+project-date: April 2019
+client: 32 Degrees
+category: E-Commerce
+description: We helped 32 Degrees maintain their e-Commerce website, constantly improving the application, adding features and helping achieve a better conversation rate. The team diligently designed, built and tested the shopify website and the business specific custom application. Having the website as a first impression of the company for the users, the UX team focused on giving a unique way to approach its service offerings.
 
 ---
