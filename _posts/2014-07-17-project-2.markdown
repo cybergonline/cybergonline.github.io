@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Florists
+subtitle: E-Commerce
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2019-06-17
+img: florists.jpg
+thumbnail: florists-thumbnail.jpg
+alt: Florists
+project-date: June 2019
+client: Florists
+category: Web Development, E-Commerce
+description: We helped Florists set up their e-commerce website and helped them maintain it since then. We have matched the pace at which their business is growing and will continue to do so. The design team worked on using experiential design to offer an impactful and unforgettable experience. Having the website as a first impression of the company for the users, the UX team focused on giving a unique way to approach its service offerings. The team diligently designed, built and tested the shopify website and the business specific custom shopify applications. Our team continuously makes improvements to the website. A/B testing different versions and features to get the highest conversion rate.
 
 ---
