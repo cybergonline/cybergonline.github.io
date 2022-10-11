@@ -13,23 +13,34 @@ people:
   pic: sarah-munson
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: stack-overflow
+    #   url: #
+
+- name: Vin Kim
+  pic: vin-kim
+  position: Lead Developer
+  social:
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: linkedin
+    #   url: #
 
 - name: Michael Morris
   pic: 2
-  position: Lead Developer
+  position: Senior Software Engineer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: linkedin
+    #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
