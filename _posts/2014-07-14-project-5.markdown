@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Salty K Swim
+subtitle: E-Commerce, Shopify
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2020-03-05
+img: salty-k-swim.jpg
+thumbnail: salty-k-swim-thumbnail.jpg
+alt: Salty K Swim
+project-date: March 2020
+client: Salty K Swim
+category: Web Development, Shopify, E-Commerce
+description: We helped Kim Biermann - a TV personality, entrepreneur, and loving mom of 6 beautiful kids - create Salty K Swim based on her concept.
 
 ---
