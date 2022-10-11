@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Covet & Mane
+subtitle: UI/UX Design, E-Commerce
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2019-07-18
+img: covet-mane.png
+thumbnail: covet-mane-thumbnail.jpg
+alt: Covet & Mane
+project-date: July 2019
+client: Covet & Mane
+category: Web Development, E-Commerce, UI/UX Design
+description: We helped Covet & Mane maintain their e-commerce website, constantly improving the application, adding features and helping achieve a better conversation rate. Keeping in mind the Brand style of Covet & Mane, the design team focused on keeping the designs minimal and adhering to the guides of the brand.
 
 ---
