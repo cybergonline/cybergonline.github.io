@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: SnapRapid
+subtitle: Data Mining & Processing
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2020-02-10
+img: snaprapid.png
+thumbnail: snaprapid-thumbnail.png
+alt: SnapRapid
+project-date: February 2020
+client: SnapRapid
+category: Web Development, Data Mining & Processing
+description: We created a Data Science platform that detects, recognizes, and analyses the visibility of brand name mentions in social media and logo visibility and appearance on videos. Our AI, ML, Big Data mining and processing, BI, cloud, and other tech solutions help companies to analyze their brand appearance efficiency.
 
 ---
